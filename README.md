@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ahmad
 
-<!--
-**muhammadahmadimtiaz/muhammadahmadimtiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Computer Science student at **Quaid-i-Azam University, Islamabad** (2026-2030).
 
-Here are some ideas to get you started:
+## What I'm doing right now
+- Learning **C++** and **problem solving** in my first semester
+- Focusing on logic and fundamentals, not just syntax
+- Practicing regularly and pushing my programs here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+- Variables, conditions, loops
+- Functions and arrays
+- Next: pointers, strings, then data structures and algorithms
+
+## My repositories
+- [cpp-programming-fundamentals](https://github.com/muhammadahmadimtiaz/ingredients-adjuster): my C++ practice programs from university
+
+## Tech
+C++ | Git | GitHub | VS Code
+
+## Connect with me
+- LinkedIn: [muhammadahmadimtiaz](https://www.linkedin.com/in/muhammadahmadimtiaz)
+
+*I'm a beginner and I share my mistakes along with my progress.*
