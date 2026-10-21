@@ -13,7 +13,7 @@ BS Computer Science student at **Quaid-i-Azam University, Islamabad** (2026-2030
 - Next: pointers, strings, then data structures and algorithms
 
 ## My repositories
-- [cpp-programming-fundamentals](https://github.com/muhammadahmadimtiaz/ingredients-adjuster): my C++ practice programs from university
+- [cpp-programming-fundamentals](https://github.com/muhammadahmadimtiaz/cpp-programming-fundamentals): my C++ practice programs from university
 
 ## Tech
 C++ | Git | GitHub | VS Code
